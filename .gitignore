@@ -13,3 +13,6 @@ Logs
 # python 
 __pycache__/
 *.pyc
+
+# project zip
+backyard_flyer_Marko_Sarkanj.zip
